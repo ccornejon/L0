@@ -1,0 +1,371 @@
+MacBook-Pro-de-Constanza:l0 conicornejo$ history
+    1  pip3.5 install numpy
+    2  pip3.5 install matplotlib
+    3  pip3.5 install scipy
+    4  /Users/conicornejo/Downloads/fingerprint ; exit;
+    5  df
+    6  df -h
+    7  cryptsetup
+    8  ip addr
+    9  ifconfig 
+   10  ls
+   11  cd Downloads/
+   12  mkdir kiwix
+   13  cd kiwix
+   14  scp freescanrip@10.42.0.1:/media/dext/resrc/_wiki/* ./
+   15  scp freescanrip@10.42.0.1:/media/dext/resrc/_wiki/* ./
+   16  ls
+   17  ls -al
+   18  mkdir wikipedia_en_all_novid_2017-08.zim.idx
+   19  cd wikipedia_en_all_novid_2017-08.zim
+   20  cd wikipedia_en_all_novid_2017-08.zim.idx/
+   21  MBPdeConstanza:kiwix conicornejo$ scp freescanrip@10.42.0.1:/media/dext/resrc/_wiki/wikipedia_en_all_novid_2017-08.zim.idx/* ./
+   22  scp freescanrip@10.42.0.1:/media/dext/resrc/_wiki/wikipedia_en_all_novid_2017-08.zim.idx/* ./
+   23  ls -a
+   24  ls -al
+   25  xattr -cr /Applications/Kiwix.app
+   26  exit
+   27  cd Downloads/
+   28  ls
+   29  ls
+   30  sudo xa
+   31  sudo bash
+   32  pwd
+   33  ls kiwix
+   34  cd ..
+   35  mv Downloads/kiwix/* Library/Application\ Support/Kiwix/Profiles/leqpj3bb.default/data/index/
+   36  ls Library/Application\ Support/Kiwix/Profiles/leqpj3bb.default/data/index/
+   37  cd Library/Application\ Support/Kiwix/Profiles/leqpj3bb.default/data/
+   38  mv index/wikipedia_en_all_novid_2017-08.zim content/
+   39  ls index/
+   40  du index/
+   41  npm
+   42  brew
+   43  git
+   44  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bashç
+   45  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+   46  wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+   47  curl
+   48  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+   49  $ sudo npm install -g cordova
+   50  sudo npm install -g cordova
+   51  npm install download
+   52  sudo npm install -g ionic
+   53  npm install firebase-admin --save
+   54  ls
+   55  ionic cordova platform add ios
+   56  ls
+   57  sudo npm install -g ionic
+   58  ionic cordova platform add ios
+   59  npm install
+   60  ionic io
+   61  ls
+   62  cd ..
+   63  ls
+   64  ionic cordova platform add ios
+   65  ls
+   66  ls
+   67   ionic start bowinglass blank --type ionic1
+   68  ionic cordova platform add android
+   69  cd ..
+   70  ls
+   71  npm i -g cordova
+   72  sudo npm install -g cordova
+   73  ionic cordova platform add android
+   74  sudo ionic cordova platform add android
+   75  ionic cordova build ios
+   76  sudo ionic cordova build ios
+   77  sudo ionic cordova emulate android
+   78  ionic cordova platform add android
+   79  sudo ionic cordova platform add android
+   80  sudo ionic cordova emulate android
+   81  ionic cordova emulate ios
+   82  sudo ionic cordova emulate ios
+   83  xcode-select --instal
+   84  xcode-select --install
+   85  sudo xcode-select --switch /Library/Developer/CommandLineTools
+   86  sudo ionic cordova emulate ios
+   87  npm install
+   88  sudo ionic cordova emulate ios
+   89  sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+   90  sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+   91  xcode-select --install
+   92  sudo xcode-select --switch /Library/Developer/CommandLineTools
+   93  node-gyp
+   94  sudo ionic cordova emulate ios
+   95  cd www/
+   96  ls
+   97  sudo ionic cordova emulate ios
+   98  cd ..
+   99  ls
+  100  sudo npm install
+  101  ionic
+  102  ionic --version
+  103  ionic serve+
+  104  ionic serve
+  105  cd ..
+  106  ls
+  107  cd innovacion
+  108  ls
+  109  cd ..
+  110  ls
+  111  cd
+  112  cd Desktop/innovacion/
+  113  ls
+  114  ionic start bowinglass
+  115  ls
+  116  cd bowinglass/
+  117  ionic serve
+  118  ls
+  119  cd ..
+  120  ls
+  121  cd ..
+  122  ls
+  123  ls
+  124  ionic serve
+  125  ls
+  126  ionic serve
+  127  sudo npm install
+  128  npm i @types/node
+  129  ionic serve
+  130  npm install -g ionic@latest
+  131  sudo npm install -g ionic@latest
+  132  sudo npm install -g cordova
+  133  ionic serve
+  134  sudo npm install -g cordova
+  135  ls
+  136  npm start
+  137  ls
+  138  ls
+  139  ls
+  140  ionic start bowinglass
+  141  sudo ionic update
+  142  cd bowinglass/
+  143  sudo ionic update
+  144  ionic serve
+  145  ionic serve
+  146  ionic plugin add cordova-status-bar
+  147  sudo ionic plugin add cordova-status-bar
+  148  sudo ionic plugin add cordova-splash-screen
+  149  ionic serve
+  150  npm install firebase -g
+  151  sudo npm install firebase -g
+  152  ionic serve
+  153  ionic plugin add cordova
+  154  sudo ionic plugin add
+  155  ionic cordova run ios
+  156  sudo ionic cordova run ios
+  157  ionic serve
+  158  ionic plugin add cordova-plugin-statusbar
+  159  ionic plugin add cordova-plugin-splashscreen
+  160  ionic serve
+  161  ionic start myapp --type ionic1
+  162  ionic start myapp
+  163  sudo npm install
+  164  ionic serve
+  165  ld
+  166  lc
+  167  ionic start myapp
+  168  sudo npm install npm@latest -g
+  169  sudo npm install
+  170  ionixc serve
+  171  ionic serve
+  172  ionic plugin add [cordova plugin]
+  173  myapp
+  174  ionic start myapp
+  175  ionic start bowinglass
+  176  sudo npm install
+  177  ionic start bowinglass
+  178  ionic serve
+  179  ionic serve
+  180  npm install
+  181  npm install
+  182  npm install
+  183  ionic serve
+  184  ionic serve
+  185  ionic serve
+  186  npm install @ionic-native/core @ionic-native/google-maps
+  187  ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_IOS="AIzaSyC4sLZ3DnF6RBDTatzmwRftcZI5qn6ga2o"
+  188  ionic serve
+  189  ifconfig
+  190  ifconfig en0
+  191  ionic server
+  192  npm install
+  193  ionic serve
+  194  $ ionic cordova plugin add cordova-plugin-qrscanner
+  195  sudo ionic cordova plugin add cordova-plugin-qrscanner
+  196  npm install --save @ionic-native/qr-scanner
+  197  sudo npm install --save @ionic-native/qr-scanner
+  198  npm install
+  199  npm install
+  200  ionic server
+  201  sudo ionic server
+  202  sudo npm install
+  203  ionic server
+  204  npm install
+  205  sudo npm install
+  206  ionic server
+  207  ionic serve
+  208  sudo ionic cordova plugin add cordova-plugin-qrscanner
+  209  npm install --save @ionic-native/qr-scanner
+  210  sudo npm install --save @ionic-native/qr-scanner
+  211  sudo npm install ajv
+  212  sudo npm install ajv --save
+  213  sudo npm install --save @ionic-native/qr-scanner
+  214  sudo npm audit fix
+  215  ionic cordova build ios --prod
+  216  sudo ionic cordova build ios --prod
+  217  sudo ionic cordova build ios
+  218  sudo xcode-select --switch /Library/Developer/CommandLineTools
+  219  sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+  220  sudo ionic cordova build ios
+  221  sudo ionic cordova emulate ios
+  222  sudo ionic cordova build ios
+  223  sudo ionic cordova emulate ios
+  224  sudo ionic serve
+  225  sudo npm install --save @ionic-native/qr-scanner
+  226  sudo npm install --save ajv@^5.0.0
+  227  sudo npm install --save @ionic-native/qr-scanner
+  228  sudo npm audit fix
+  229  sudo ionic serve
+  230  sudo ionic cordova build ios
+  231  sudo ionic cordova plugin add cordova-plugin-firebase
+  232  sudo npm install --save @ionic-native/firebase
+  233  sudo npm install firebase angularfire2 --save
+  234  sudo npm i angularfire2@5.0.0-rc.5-next firebase@4.8.0
+  235  npm install
+  236  ionic serve
+  237  sudo npm i angularfire2@5.0.0-rc.5-next firebase@4.8.0
+  238  ionic serve
+  239  sudo npm install firebase --save
+  240  sudo npm install firebase --save
+  241  sudo npm install firebase --save
+  242  sudo npm install firebase angularfire2 --save
+  243  chmod
+  244  ls -l
+  245  chmod 755 node_modules/
+  246  ls -l
+  247  sudo npm install firebase angularfire2 --save
+  248  sudo npm install -g node-gyp node-pre-gyp
+  249  sudo npm install firebase angularfire2 --save
+  250  sudo chown -r XXX node_modules/
+  251  sudo chown -r XXX node_modules/
+  252  sudo chown 755 node_modules/
+  253  sudo chgrp 755
+  254  sudo chgrp -r XXX
+  255  sudo npm install firebase angularfire2 --save --unsafe-perm=true
+  256  sudo npm install firebase angularfire2 --save -g
+  257  sudo npm cache clean -f
+  258  sudo npm install firebase angularfire2 --save -g
+  259  npm install
+  260  npm install firebase angularfire2 --save -g
+  261  sudo npm install firebase angularfire2 --save -g
+  262  npm config get prefix
+  263  ionic serve
+  264  ionic serve
+  265  ionic cordova plugin add cordova-plugin-googlemaps   --variable API_KEY_FOR_ANDROID="(API_KEY_FOR_ANDROID)"  --variable API_KEY_FOR_IOS="(API_KEY_FOR IOS)"
+  266  ionic cordova plugin add cordova-plugin-googlemaps \--variable API_KEY_FOR_IOS="(AIzaSyC4sLZ3DnF6RBDTatzmwRftcZI5qn6ga2o)"
+  267  npm install -g cordova
+  268  sudo install -g cordova
+  269  npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+  270  ionic serve
+  271  install npm @ionic-native/google-maps
+  272  sudo ionic cordova build ios
+  273  sudo ionic cordova emulate ios
+  274  ionic serve
+  275  sudo ionic cordova build ios
+  276  sudo ionic cordova emulate ios
+  277  install npm
+  278  ionic cordova plugin add cordova-plugin-googlemaps \ --variable API_KEY_FOR_IOS="(AIzaSyC4sLZ3DnF6RBDTatzmwRftcZI5qn6ga2o)"
+  279  sudo chown -R $USER:$GROUP ~/.npm
+  280  sudo chown -R $USER:$GROUP ~/.config.
+  281  chown root:root /root/.config/ -R
+  282  sudo cordova keystone
+  283  sudo chmod -R 777 '/Users/anand.d.gupta/.config/configstore/update-notifier-cordova.json'
+  284   sudo npm remove -g cordova 
+  285  sudo npm install -g --unsafe-perm=true cordova
+  286  ionic cordova plugin add cordova-plugin-googlemaps \ --variable API_KEY_FOR_IOS="(AIzaSyC4sLZ3DnF6RBDTatzmwRftcZI5qn6ga2o)"
+  287  npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+  288  ionic cordova plugin add cordova-plugin-googlemaps
+  289  ionic cordova built ios
+  290  sudo ionic cordova build ios
+  291  sudo ionic cordova emulate ios
+  292  ionic cordova plugin add cordova-plugin-googlemaps \ --variable API_KEY_FOR_IOS="(AIzaSyC4sLZ3DnF6RBDTatzmwRftcZI5qn6ga2o)"
+  293  sudo npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+  294  install npm
+  295  npm install
+  296  ionic serve
+  297  npm install
+  298  sudo ionic cordova build ios
+  299  ionic serve
+  300  npm install
+  301  sudo ionic cordova build ios
+  302  npm install
+  303  sudo ionic cordova build
+  304  ionic serve
+  305  npm install
+  306  ionic serve
+  307  ionic serve
+  308  npm install
+  309  ionic serve
+  310  sudo ionic cordova build ios
+  311  npm install
+  312  ionic serve
+  313  npm install
+  314  ionic serve
+  315  sudo ionic cordova build ios
+  316  ionic serve
+  317  ls
+  318  cd Escritorio
+  319  cd Desktop/
+  320  git clone https://github.com/IIC2115/Syllabus.git
+  321  git clone https://github.com/IIC2115/Syllabus.git
+  322  cd Syllabus/
+  323  ls
+  324  git add *
+  325  git commit -m "se sube el lab0"
+  326  git push
+  327  cd ..
+  328  cd repos
+  329  cd L0
+  330  git init
+  331  git add *
+  332  git commit -m "new repo"
+  333  git push
+  334  git config --global user.name "ccornejon"
+  335  git config --global user.email cbcornejo1@uc.cl
+  336  gitr push
+  337  git push
+  338  git push origin master
+  339  git remote add origin https://github.com/ccornejon/L0.git
+  340  git push -u origin master
+  341  git clone https://github.com/IIC2115/Syllabus
+  342  git init
+  343  git commit -m "new repo"
+  344  git commit -m "new repo"
+  345  git push
+  346  git push origin master
+  347  pwd
+  348  cd desktop
+  349  cd repos
+  350  cd L0/
+  351  git add *
+  352  git commit "first commit"
+  353  git commit -m "first commit"
+  354  git push
+  355  git push origin master
+  356  git clone https://github.com/IIC2115/Syllabus.git
+  357  cd desktop
+  358  cd..
+  359  cd.
+  360  cd ..
+  361  cd desktop
+  362  cd Desktop
+  363  cd ..
+  364  git clone https://github.com/IIC2115/Syllabus.git
+  365  git pull
+  366  cd repos
+  367  cd l0
+  368  git pull
+  369  git pull origin master
+  370  history
